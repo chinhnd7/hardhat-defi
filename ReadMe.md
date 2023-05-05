@@ -13,5 +13,5 @@
 
 // TradeOffs: đánh đổi
 
-Pros (advantages): Quick, easy, resemble what's on mainnet
-Cons (disadvantages): We need an API, some contracts are complex to work with
+- Pros (advantages): Quick, easy, resemble what's on mainnet
+- Cons (disadvantages): We need an API, some contracts are complex to work with
